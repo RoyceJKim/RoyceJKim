@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mathematics and Business Student @ UWaterloo and LaurierU
 ---------------------------------------------------------
 
-Just starting my code monkey journey. Currently working through MIT's Introduction to Computer Science in Python
+Just starting my code monkey journey.
 
 * 🌍  I'm based in Waterloo
 * ✉️  You can contact me at [kimroyce875@gmail.com](mailto:kimroyce875@gmail.com)
